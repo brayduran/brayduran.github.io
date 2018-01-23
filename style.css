@@ -1,6 +1,47 @@
 body
 {
+  font-size: 14px;
   font-family: "Arial";
+  color; black;
+  line-height: 14px
+  padding: 20px;
   width: 960px;
   margin: 50px auto;
  }
+
+ h1
+ {
+   font: 18px Arial;
+   font-weight: bold;
+   line-height: 24px;
+ }
+
+p.subheader
+{
+  font-weight: bold;
+  color: #593d87;
+}
+
+img{
+  padding: 5px;
+  float: center;
+}
+
+a:link, a:visited
+{
+  color: #8094d6
+}
+
+a:hover, a:active
+{
+  color: #FF9933;
+}
+
+div.footer
+{
+  font-size: 10px;
+  font-style: italic;
+  line-height: 10px;
+  text-align: center;
+  paddding-top: 30pt;
+}
